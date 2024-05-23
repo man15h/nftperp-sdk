@@ -19,7 +19,7 @@ export const info: Config = {
         whitelist: "0xc98f3436A5dC926F66091E8a68CC027aa1ecCBb6",
         whitelist_blast: "0x2f6b968B487010b0F2D5DCdF7F4D5a0811E08aF1",
         weth: "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
-        weth_blast: "0x4300000000000000000000000000000000000004",
+        weth_blast: "0xf7bc58b8d8f97adc129cfc4c9f45ce3c0e1d2692",
         degenDraw_blast: "0xfB33141A9C0201a998B44B64684d056C7560E395",
         amms: {
             milady: "0x66945724757a91199AB0B0c77EcBB90abA897F75",
